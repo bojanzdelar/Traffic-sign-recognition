@@ -127,3 +127,16 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Visual Studio Code
+.vscode/
+
+# Dataset
+dataset/Meta
+dataset/Test
+dataset/Train
+dataset/Meta.csv
+
+# Misc
+references.md
+*.pdf
