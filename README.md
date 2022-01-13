@@ -1,6 +1,6 @@
 # Traffic-sign-recognition
 
-A traffic sign recognition using following neural networks built using PyTorch
+Neural networks for traffic sign recognition built using PyTorch:
 
 - **Multilayer Perceptron (MLP)**
 - **Convolutional Neural Network (CNN)**
