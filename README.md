@@ -1,4 +1,4 @@
-# Traffic-sign-recognition
+# Traffic sign recognition
 
 Neural networks for traffic sign recognition built using PyTorch:
 
